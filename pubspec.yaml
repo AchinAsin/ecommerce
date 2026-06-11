@@ -1,5 +1,5 @@
 name: ecommerce_app
-description: "A new Flutter project."
+description: "Created this app to learn flutter and dart. It is a simple ecommerce app with a home screen, product screen, cart screen and checkout screen."
 publish_to: 'none'
 version: 0.1.0+1
 
